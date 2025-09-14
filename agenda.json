@@ -1,0 +1,54 @@
+{
+  "2025-09-14": {
+    "citas": [
+      {
+        "hora": "15:00",
+        "actividad": "Cita médica con el cardiólogo",
+        "tipo": "cita"
+      },
+      {
+        "hora": "16:30",
+        "actividad": "Reunión familiar",
+        "tipo": "personal"
+      },
+      {
+        "hora": "3:00",
+        "actividad": "Cita importante",
+        "tipo": "personal"
+      },
+      {
+        "hora": "2:00",
+        "actividad": "cita a las 2 con Juan",
+        "tipo": "recordatorio"
+      }
+    ],
+    "medicamentos": [
+      {
+        "hora": "08:00",
+        "medicamento": "Pastilla para la presión",
+        "dosis": "1 tableta"
+      },
+      {
+        "hora": "20:00",
+        "medicamento": "Aspirina",
+        "dosis": "100mg"
+      }
+    ]
+  },
+  "2025-09-15": {
+    "citas": [
+      {
+        "hora": "10:00",
+        "actividad": "Control dental",
+        "tipo": "cita"
+      }
+    ],
+    "medicamentos": [
+      {
+        "hora": "09:00",
+        "medicamento": "Vitamina D",
+        "dosis": "2000 UI"
+      }
+    ]
+  }
+}
